@@ -9,6 +9,7 @@
 You task is to build a vanilla JavaScript app like the mockup below, using Insertion Sort.
 > The HTML and CSS has been given to you.
 
+![](https://media.imgur.com/sNjsnXc.gif)
+
 ##
 
-![](https://media.imgur.com/sNjsnXc.gif)
