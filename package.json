@@ -1,0 +1,11 @@
+{
+  "name": "insertsortchallenge",
+  "version": "1.0.0",
+  "description": "1. Fork 1. Clone 1. Pull Request when complete",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
