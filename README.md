@@ -10,4 +10,5 @@ You task is to build a vanilla JavaScript app like the mockup below, using Inser
 > The HTML and CSS has been given to you.
 
 ##
+
 ![](https://i.imgur.com/sNjsnXc.gif)
