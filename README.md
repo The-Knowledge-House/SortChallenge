@@ -11,4 +11,4 @@ You task is to build a vanilla JavaScript app like the mockup below, using Inser
 
 ##
 
-![](https://i.imgur.com/sNjsnXc.gif)
+![](https://media.imgur.com/sNjsnXc.gif)
